@@ -1,0 +1,1 @@
+this a a simple java project that was written in my 2nd year of university. it a is a hospital appointment booking system.
